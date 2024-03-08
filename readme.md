@@ -1,19 +1,19 @@
-# Vanilla Node Crud
+# JS Crud
 
-A simple CRUD application created in vanilla node
+A simple CRUD application created with js
 
 ## Run
 
 Clone the project
 
 ```bash
-  git clone https://github.com/manishdoley23/vanilla-node-simple-crud-app
+  git clone https://github.com/manishdoley23/js-crud-app
 ```
 
 Go to the project directory
 
 ```bash
-  cd vanilla-node-simple-crud-app
+  cd js-crud-app
 ```
 
 Install dependencies
